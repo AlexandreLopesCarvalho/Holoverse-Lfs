@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KoraulRig",
+			"Path": "D:\\Alexandre\\Pictures\\Unreal\\MapKoraul\\Source\\KoraulRig.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KoraulRigEditor",
+			"Path": "D:\\Alexandre\\Pictures\\Unreal\\MapKoraul\\Source\\KoraulRigEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

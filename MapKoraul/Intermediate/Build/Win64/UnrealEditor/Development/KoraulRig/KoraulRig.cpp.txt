@@ -1,0 +1,2 @@
+D:\Alexandre\Pictures\Unreal\MapKoraul\Intermediate\Build\Win64\UnrealEditor\Development\KoraulRig\Definitions.KoraulRig.h
+D:\Alexandre\Pictures\Unreal\MapKoraul\Source\KoraulRig\KoraulRig.h

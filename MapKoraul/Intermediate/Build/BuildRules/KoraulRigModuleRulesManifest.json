@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Alexandre\\Pictures\\Unreal\\MapKoraul\\Source\\KoraulRig\\KoraulRig.Build.cs",
+		"D:\\Alexandre\\Pictures\\Unreal\\MapKoraul\\Source\\KoraulRig.Target.cs",
+		"D:\\Alexandre\\Pictures\\Unreal\\MapKoraul\\Source\\KoraulRigEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
